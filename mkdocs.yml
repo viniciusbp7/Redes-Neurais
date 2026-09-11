@@ -138,10 +138,12 @@ nav:
 
   # A lista de entregas muda de edição para edição: acrescente ou remova itens
   # aqui e as pastas correspondentes em docs/.
-  - Data: exercises/data/index.ipynb
-  - Perceptron: exercises/perceptron/index.md
-  - MLP: exercises/mlp/index.md
-  - VAE: exercises/vae/index.md
+  - Exercícios:
+    - exercises/index.md
+    - Data: exercises/data/index.ipynb
+    - Perceptron: exercises/perceptron/index.md
+    - MLP: exercises/mlp/index.md
+    - VAE: exercises/vae/index.md
 
   # O projeto é UM só, com três entregas ao longo do semestre.
   - Projeto:
